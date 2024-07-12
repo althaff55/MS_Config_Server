@@ -1,4 +1,5 @@
-
 server:
   port: 1111
-
+spring:
+  application:
+    name: MS_Admin_Server
