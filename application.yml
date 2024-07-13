@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MS_Rest_Api
+    name: MS_Rest_Api123
   boot:
     admin:
       client:
